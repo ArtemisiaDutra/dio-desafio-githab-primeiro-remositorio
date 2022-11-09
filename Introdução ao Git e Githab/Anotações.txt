@@ -1,0 +1,20 @@
+Para clonar
+
+1. Criar repositório no Git Hab
+2. Copiar código
+
+Adicionar o controle de versão local (DESCKTOP)
+3. Em uma pasta onde queira que fique armazenado o arquivo, clique com o direito e git bash here
+4. Digita git clone - com o direita escolha PASTA. Ele vao colar o código
+5. Após ter criado pasta ou adicionado conteúdo, digitar git status para o git entender que algo foi alterado
+6. Enviar para o controle de versão, git add .
+7. git status
+
+
+Adicionar o controle de versão web (WEB)
+1. dar commit
+git commit -m "Inclusão de informaçẽs sobre o curso de Git e Git/Hab"
+2. Para ver
+git status
+3. Para enviar ara a nuvem do git tem que dar o push
+git push origin main
